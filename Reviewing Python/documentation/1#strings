@@ -1,0 +1,29 @@
+#Practice
+print("""/
+Usage: thingy [OPTIONS]
+     -h                        Display this usage message
+     -H hostname               Hostname to connect to
+""")
+
+print("""/
+mentro: retro,reload
+    -m NoneNone
+    -h NoneNone
+""")
+#END
+#Practice
+word = "python"
+
+print(word[0:4])
+print(word[1:6])
+print(word[0:2])
+# carácter desde el principio hasta la posición 2 (excluido)
+print(word[:4])
+print(word[:1])
+print(word[:3])
+print(word[:5])
+# carácter desde la posición 4 (incluida) hasta el final
+print(word[2:])
+# caracter desde el penúltimo (incluido) hasta el final
+print(word[-2:])
+#END
