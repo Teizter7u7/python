@@ -26,4 +26,23 @@ print(word[:5])
 print(word[2:])
 # caracter desde el penúltimo (incluido) hasta el final
 print(word[-2:])
+
+# esto es por que :2 es py y 2: es thon = python
+print(word[:2] + word[2:])
+# :4 pyth y 4: on = python
+print(word[:4] + word[4:])
+"""
+ +---+---+---+---+---+---+
+ | P | y | t | h | o | n |
+ +---+---+---+---+---+---+
+ 0   1   2   3   4   5   6
+-6  -5  -4  -3  -2  -1
+"""
+#END
+#Practice
+s = 'supercalifragilisticexpialidocious'
+w = 'procrastinación'
+#len develve la cantidad de caracteres(letras, numeros o simbolos)
+print(len(s))
+print(len(w))
 #END
