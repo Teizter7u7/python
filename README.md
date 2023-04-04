@@ -1,1 +1,1 @@
-# Reviewing and studying Python
+# studying Python
