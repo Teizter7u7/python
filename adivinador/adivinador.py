@@ -1,4 +1,4 @@
-#intento1
+# primera version
 import random
 numero = random.randrange(0, 101)
 def adivinar_numero():
