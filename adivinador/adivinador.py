@@ -1,4 +1,4 @@
-#lop
+#intento1
 import random
 numero = random.randrange(0, 101)
 def adivinar_numero():
